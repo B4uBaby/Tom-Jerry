@@ -1,6 +1,6 @@
 #bin!bash
 
-ech " Wait 
+echo " Wait 
 
 "
 
