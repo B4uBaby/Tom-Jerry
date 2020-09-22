@@ -179,7 +179,7 @@ echo "Thank YoU Team Hunny
 
 elif [ $o = "2" ]
 then
-termux-open-url https://instagram.com/ihunny19
+termux-open-url https://instagram.com/tomjerry07123
 
 elif [ $o = "3" ]
 then
