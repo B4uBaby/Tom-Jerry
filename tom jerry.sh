@@ -1,7 +1,7 @@
 #bin!bash
 
 printf "$red"
-figlet -f big Tom Jerry 
+figlet "Tom Jerry" |lolcat
 
 printf "$green"        
 echo " ++++++++++++++++++++++++++++++
