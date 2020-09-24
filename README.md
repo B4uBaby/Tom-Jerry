@@ -1,6 +1,11 @@
 # Tom-Jerry
 Tom Jerry Is A Bash Based Script . Which Help to You Scan Network ports &* Other Infomation
 
+
+watch Tutorial 📌 How To Use 📌 Video 
+
+https://youtu.be/MIAKmaHALN4
+
 contact Me 
 
 Created By :: Hunny Sharma
