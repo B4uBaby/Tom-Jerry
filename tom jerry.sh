@@ -5,16 +5,12 @@ figlet "Tom Jerry" |lolcat
 
 printf "$green"        
 echo " ++++++++++++++++++++++++++++++
-       👨💻Author : Hunny Sharma 
-       🐧💻 Tom & jerry : Security  🔐  "
+       👨💻Author : varun cyber army
+       🐧💻 Tom + jerry = security  🔐  "
        
 echo "==================================
 
 "   
-
-echo "Warning You This Tool Is Worked With Nmap . If You Not Install Nmap ..Then 1st Install Nmap By Type This Command . pkg install nmap . other tool not working 
-
-" 
 
 echo "+++++++++++++++++++++++++++++++++
 
