@@ -9,6 +9,8 @@ figlet -f big set up ...
 apt update -y
 apt upgrade -y
 pkg install nmap
+apt install lolcat
+apt install figlet
 
 clear
 
@@ -20,6 +22,8 @@ echo " bash 'tom jerry.sh'
 
 
 " 
+
+echo " this project is now managed by varun cyber army "
 
 echo "Thank You 
 
